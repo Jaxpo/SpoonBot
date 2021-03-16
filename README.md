@@ -1,3 +1,5 @@
 # SpoonBot
 
-A bot for Daniel or something. Development Branch Test
+A bot for Daniel or something.
+
+Current version: 1.0.0
